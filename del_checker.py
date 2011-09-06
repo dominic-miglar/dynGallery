@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
+# del_checker.py
+
 # Copyright 2011 by Dominic Miglar
 
 import os

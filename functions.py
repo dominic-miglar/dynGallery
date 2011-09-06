@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
+# functions.py
+
 # Copyright 2011 by Dominic Miglar
 
 # Funktion logToFile(filename, logmessage): Dient zur Erstellung des Logfiles

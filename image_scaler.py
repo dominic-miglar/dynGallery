@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
 
+# image_scaler.py
+
 # Copyright 2011 by Dominic Miglar
 
 # Skaliert die Bilder im picDir (damit Sie auch auf kleineren Bildschirmen schoen in
